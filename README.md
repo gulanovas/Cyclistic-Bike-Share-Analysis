@@ -73,3 +73,7 @@ For my final analysis, I challenged myself to apply all the tools and skills I l
 
 ## Repository Structure
 
+- Raw – Unprocessed data  
+- Processed – Cleaned and structured data
+- Visualisation – Graphs, charts, and other visual representations   
+
