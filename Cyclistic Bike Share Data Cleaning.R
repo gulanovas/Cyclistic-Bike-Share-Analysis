@@ -28,7 +28,7 @@ invisible(lapply(required_packages, library, character.only = TRUE, quietly = TR
 # -----------------------------
 
 # List all raw data files
-all_files <- list.files("~/Case Study/csv/raw_data", full.names = TRUE)
+all_files <- list.files("path", full.names = TRUE)
 print(all_files)
 
 # Load only 2024 trip data files
